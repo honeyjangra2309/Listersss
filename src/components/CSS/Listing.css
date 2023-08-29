@@ -1,0 +1,42 @@
+.listing-card {
+    background: linear-gradient(to bottom right, #0A0E3F, #150B1F);
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  display: flex;
+  flex-direction: column;   
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 4px 8px rgba(0, 0, 0, 0.1);
+    color: #d8d8d8;
+  }
+  
+  .name {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .website-category {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .website,
+  .category {
+    font-size: 14px;
+  }
+  
+  .description {
+    margin-bottom: 10px;
+  }
+  
+  .address-phone {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .address,
+  .phone {
+    font-size: 12px;
+  }
+  

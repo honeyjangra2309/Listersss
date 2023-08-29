@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: linear-gradient(to bottom right, #0A0E3F,#150B1F);
+    padding: 2rem 3rem;
+    font-family: "Montserrat",sans-serif;
+    min-height: 100vh;
+}
